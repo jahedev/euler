@@ -4,7 +4,7 @@ import time # to measure time taken
 def smallest_factor(n):
     # try dividing 'n' starting from the number 2 upto half the size of 'n',
     # if the number is divisible with no remainder, then return that as the smallest factor of 'n'.
-    for i in range(2, int(n/2)):
+    for i in range(2, int(n/2) + 1):
         if n % i == 0:
             return i
     return -1
