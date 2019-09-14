@@ -6,8 +6,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+alternate_solutions/__pychache__/
 
 # VSCode
 .vscode/
 
-__testcode__/
+
