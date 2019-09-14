@@ -67,10 +67,6 @@ def is_prime(n):
     print(is_prime(2))
 """
 def is_prime(n):
-
-    """
-    Assumes that n is a positive natural number
-    """
     # We know 1 is not a prime number
     if n == 1:
         return False
