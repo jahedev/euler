@@ -6,8 +6,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+alternate_solutions/__pychache__/
 
 # VSCode
 .vscode/
 
+<<<<<<< HEAD
 _testing/
+=======
+
+>>>>>>> 277a7f12e2f470f4bcb1f75bcb1684105e9be421
